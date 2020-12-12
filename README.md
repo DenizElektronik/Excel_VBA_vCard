@@ -1,4 +1,4 @@
-# vCARD
+# vCard
 Excel VBA to create vCard file [EN] // vCard dosyası yaratan Excel VBA
 
 Excel dosyanızda pek çok telefon içeren listeniz var ve tüm listeyi telefonunuzda 
